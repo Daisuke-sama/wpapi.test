@@ -4,8 +4,9 @@
 !.htaccess
 !wp-config.php
 
-!wp-reader/**/*
-!wp-edit/**/*
+!wp-reader/
+!wp-edit/
+!wp-oaedit/
 
 !wp-content
 wp-content/*
