@@ -1,8 +1,11 @@
 /*
 !.gitignore
 !README.md
+!.htaccess
+!wp-config.php
 
-!wp-reader/
+!wp-reader/**/*
+!wp-edit/**/*
 
 !wp-content
 wp-content/*
