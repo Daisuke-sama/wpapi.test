@@ -1,4 +1,12 @@
 /*
 !.gitignore
+!README.md
 
 !wp-reader/
+
+!wp-content
+wp-content/*
+!wp-content/plugins
+wp-content/plugins/*
+!wp-content/plugins/rest-post-editor/
+!wp-content/plugins/rest-post-editor/**/*
